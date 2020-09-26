@@ -1,0 +1,13 @@
+.box-img {
+    width: 214.5px;
+    float: left;
+    background-color: red; 
+}
+
+.box-img a, .box-img img {
+    display: block; 
+}
+
+.box-img + .box-img {
+    margin-left: 34px; 
+}

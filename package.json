@@ -1,10 +1,10 @@
 {
-  "name": "Template-sass",
+  "name": "template-sass",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w sass -o public/css",
+    "sass": "node-sass -w sass -o css",
     "sass-build": "node-sass sass -o public-build/css --output-style compressed"
   },
   "author": "",
